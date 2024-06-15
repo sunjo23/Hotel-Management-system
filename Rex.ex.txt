@@ -1,0 +1,9 @@
+This website was built using wordpress 
+bellow are the template files for the various pages found on the website 
+
+How to use the templates 
+-install wordpress
+-install a theme 
+-install elemntor plugin 
+-In the WordPress admin, create a new page and select the
+ "JSON Page Template" as the page template.
